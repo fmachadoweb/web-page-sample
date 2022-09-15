@@ -17,7 +17,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/fmachadoweb/web-page-sample"><strong>Explorar arquivos »</strong></a> <a href="https://hardtek.com.br/webpage/">Demo</a>
+    <a href="https://github.com/fmachadoweb/web-page-sample"><strong>Explorar arquivos »</strong></a> <a href="https://hardtek.com.br/webpage/"><strong>Demo</strong></a>
     
     
     
