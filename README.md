@@ -13,16 +13,14 @@
   
   <p align="center">Site feito em HTML5 e CSS3 do curso de Front-End da Alura, fiz umas modificações e coloquei o CSS e as Imagens em pastas separadas para ficar mais organizado e prático para futuras modificações. </p>
   
-  <p align="center">Curso Front-End by <code>ALURA</code> </p>
+  <p align="center">Curso <code>ALURA.</code> </p>
 
   <p align="center">
     <br />
-    <a href="https://github.com/fmachadoweb/web-page-sample"><strong>Explorar arquivos »</strong></a> <a href="https://hardtek.com.br/webpage"><strong>Demo »</strong></a>
+    <a href="https://github.com/fmachadoweb/web-page-sample"><strong>Explorar arquivos »</strong></a>
+    <br />
+    <br />
   </p>
-  
-    <br>
-    <br>  
-  
 </div>
 
 
@@ -34,4 +32,5 @@ Fernando Machado - [@fmachadoweb](https://twitter.com/fmachadoweb) - fernandomac
 Project Link: [https://github.com/fmachadoweb/web-page-sample](https://github.com/fmachadoweb/web-page-sample)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
